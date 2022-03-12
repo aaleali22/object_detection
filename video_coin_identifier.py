@@ -3,7 +3,6 @@ import cv2
 
 #dim = 1280cols by 720 rows
 
-
 cap = cv2.VideoCapture('rtsp://username:password@your_rtsp_ip_address')
 b = True
 while True:
